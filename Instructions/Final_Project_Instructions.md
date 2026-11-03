@@ -26,7 +26,7 @@ Students must demonstrate not only how data are cleaned and transformed, but als
 3. Both students must contribute substantially to the project.
 4. Each member must understand the complete workflow and be able to explain the implementation.
 5. Individual contributions must be documented through GitHub commit history and a contribution statement.
-6. A mandatory progress checkpoint will be conducted at the end of Week 2.
+6. A mandatory progress checkpoint will be conducted at the end of Week 14.
 
 ## 3. Dataset Selection
 
@@ -198,10 +198,10 @@ Publication quality will be assessed based on technical correctness, clarity, re
 
 | Week | Activities | Milestone |
 |---|---|---|
-| Week 1 | Data gathering, understanding, profiling, and quality assessment | Initial quality assessment and data dictionary |
-| Week 2 | Cleaning, missing-data treatment, integration, and transformation | Working preprocessing pipeline and mandatory checkpoint |
-| Week 3 | Automated validation, sensitivity analysis, and EDA | Validated dataset and preliminary findings |
-| Week 4 | Documentation, reproducibility testing, publication, and presentation | Final GitHub repository, Kaggle Notebook, and presentation |
+| Week 13 | Data gathering, understanding, profiling, and quality assessment | Initial quality assessment and data dictionary |
+| Week 14 | Cleaning, missing-data treatment, integration, and transformation | Working preprocessing pipeline and mandatory checkpoint |
+| Week 15 | Automated validation, sensitivity analysis, and EDA | Validated dataset and preliminary findings |
+| Week 16 | Documentation, reproducibility testing, publication, and presentation | Final GitHub repository, Kaggle Notebook, and presentation |
 
 ### Mandatory Checkpoint — End of Week 2
 
