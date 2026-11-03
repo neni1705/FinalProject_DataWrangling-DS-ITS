@@ -203,7 +203,7 @@ Publication quality will be assessed based on technical correctness, clarity, re
 | Week 15 | Automated validation, sensitivity analysis, and EDA | Validated dataset and preliminary findings |
 | Week 16 | Documentation, reproducibility testing, publication, and presentation | Final GitHub repository, Kaggle Notebook, and presentation |
 
-### Mandatory Checkpoint — End of Week 2
+### Mandatory Checkpoint — End of Week 14
 
 Each group must demonstrate:
 
