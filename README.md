@@ -53,7 +53,3 @@ The official deadline will be announced through MyClassroom.
 
 ---
 
-## Previous Final Project — 2025
-
-The previous project instructions are retained below for reference.
-
