@@ -41,7 +41,7 @@ Select one dataset from the [Dataset folder](Dataset/):
 - Both GitHub and Kaggle publication are mandatory.
 - Students must compare alternative preprocessing strategies.
 - Automated data validation and reproducibility are required.
-- A progress checkpoint will take place at the end of Week 2.
+- A progress checkpoint will take place at the end of Week 14.
 - Final grades consist of 85% group project performance and 15% individual contribution and understanding.
 - Kaggle views, upvotes, and medals are not grading criteria.
 
