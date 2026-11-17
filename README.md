@@ -12,7 +12,7 @@ Official dataset and project instruction repository for the Data Wrangling cours
 | Duration | 4 weeks |
 | Programming language | Python |
 | Dataset | Select one dataset from the `Dataset/` folder |
-| Progress checkpoint | End of Week 2 |
+| Progress checkpoint | End of Week 14 |
 | Final deliverables | Public GitHub repository, published Kaggle Notebook, and presentation |
 
 ### Project Instructions
